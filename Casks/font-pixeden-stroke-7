@@ -1,0 +1,10 @@
+cask 'font-abel' do
+  version :latest
+  sha256 :no_check
+
+  url 'https://github.com/google/fonts/raw/master/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf'
+  name 'Pixeden Stroke 7 Icon Font'
+  homepage 'http://www.pixeden.com/icon-fonts/stroke-7-icon-font-set'
+
+  font 'Abel-Regular.ttf'
+end
